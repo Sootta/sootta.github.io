@@ -4,7 +4,7 @@ import "./introduce.css"
 export const SelfIntroduction = () => {
   return (
     <section className="intro">
-      <h1 className="intro-title">自己紹介</h1>
+      <h1 className="intro-title">Introduction</h1>
       <p className="intro-text">
         新居浜工業高等専門学校 電子制御工学科3年生です。
       <br />

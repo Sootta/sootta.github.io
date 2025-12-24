@@ -17,7 +17,7 @@ export const Header = () => {
                 <a className="logo">
                     Sootta
                 </a>
-                <Link />
+          
             </div>
         </header>
     );
