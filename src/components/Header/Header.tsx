@@ -1,5 +1,5 @@
 import './Header.css';
-
+/*
 const Link = () => {
     return (
         <nav className="nav-links">
@@ -9,7 +9,7 @@ const Link = () => {
         </nav>
     );
 };
-
+*/
 export const Header = () => {
     return (
         <header className="header">
